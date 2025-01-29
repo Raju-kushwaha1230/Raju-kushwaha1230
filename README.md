@@ -34,8 +34,8 @@ once check out my github profile
 
 Feel free to reach out or connect with me on:
 
-- [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profil](https://www.linkedin.com/in/raju-kushwaha-b2314124b/)e)
-- [Twitter]([https://twitter.com/your-twitter-handle](https://x.com/With_mighty0))
+- [LinkedIn](https://www.linkedin.com/in/raju-kushwaha-b2314124b/)
+- [Twitter](https://x.com/With_mighty0)
 - [Personal Blog]
 
 Thanks for visiting my profile! Have a great day! 😊
