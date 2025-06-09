@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly seeking to l
 
 Here are a few of the technologies I work with:
 
-- **Languages:** JavaScript, Python, HTML, CSS
+- **Languages:** Python, Java, Javascript
 - **Frameworks and Libraries:** React, Node.js, Express, Django, Flask
 - **Databases:** MongoDB, MySQL
 - **Tools and Platforms:** Git, GitHub, VS Code, Docker
