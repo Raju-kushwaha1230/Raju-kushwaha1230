@@ -36,6 +36,6 @@ Feel free to reach out or connect with me on:
 
 - [LinkedIn](https://www.linkedin.com/in/raju-kushwaha-b2314124b/)
 - [Twitter](https://x.com/With_mighty0)
-- [Personal Blog]
+- [Personal Blog / Portfolio](https://raju-kushwaha1230.github.io/Portfolio-Raju/)
 
 Thanks for visiting my profile! Have a great day! 😊
