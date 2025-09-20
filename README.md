@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate developer constantly seeking to l
 ## About Me
 
 - 🔭 I’m currently working on various exciting projects in web development and data science.
-- 🌱 I’m currently learning advanced JavaScript, Python, and machine learning techniques.
+- 🌱 I’m currently learning DSA and machine learning techniques.
 - 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
 - 💬 Ask me about web development, Python, or any tech-related topic!
 - 📫 How to reach me: [Email](mightyrajukushwaha@gmail.com)
@@ -17,7 +17,7 @@ Here are a few of the technologies I work with:
 
 - **Languages:** Python, Java, Javascript
 - **Frameworks and Libraries:** React, Node.js, Express, Django, Flask
-- **Databases:** MongoDB, MySQL
+- **Databases:** MongoDB, MySQL, PostgreSQL
 - **Tools and Platforms:** Git, GitHub, VS Code, Docker
 
 ## GitHub Stats
